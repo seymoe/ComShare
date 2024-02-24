@@ -1,0 +1,27 @@
+{
+  "name": "comshare",
+  "version": "1.0.2",
+  "description": "A simple share plugin, share free just by using function command.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ximolang/ComShare.git"
+  },
+  "keywords": [
+    "share",
+    "command"
+  ],
+  "author": "ximolang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ximolang/ComShare/issues"
+  },
+  "homepage": "https://github.com/ximolang/ComShare#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
