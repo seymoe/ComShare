@@ -1,6 +1,6 @@
 {
   "name": "comshare",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple share plugin, share free just by using function command.",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ximolang/ComShare.git"
+    "url": "git+https://github.com/seymoe/ComShare.git"
   },
   "keywords": [
     "share",
     "command"
   ],
-  "author": "ximolang",
+  "author": "seymoe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ximolang/ComShare/issues"
+    "url": "https://github.com/seymoe/ComShare/issues"
   },
-  "homepage": "https://github.com/ximolang/ComShare#readme",
+  "homepage": "https://github.com/seymoe/ComShare#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1"
